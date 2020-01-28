@@ -1,4 +1,4 @@
-# Code by Luuk Nolden 2020
+# Code by Ycreak 2020
 import cltk
 import pickle 
 import gensim
